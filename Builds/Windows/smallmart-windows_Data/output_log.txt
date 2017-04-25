@@ -1,0 +1,57 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 745M (ID=0xfe3)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.188 seconds
+Platform assembly: C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ryamo\OneDrive\Documents\Game Development\SmallMart\Builds\Windows\smallmart-windows_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.196578 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.484674 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 1.053314 ms (FindLiveObjects: 0.021810 ms CreateObjectMapping: 0.014967 ms MarkObjects: 0.169351 ms  DeleteObjects: 0.837775 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.491803 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 0.219386 ms (FindLiveObjects: 0.026942 ms CreateObjectMapping: 0.021810 ms MarkObjects: 0.161225 ms  DeleteObjects: 0.008553 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.422095 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 915.
+Total: 1.089664 ms (FindLiveObjects: 0.061582 ms CreateObjectMapping: 0.033357 ms MarkObjects: 0.187312 ms  DeleteObjects: 0.806984 ms)
+
+load scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.619671 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 915.
+Total: 0.361796 ms (FindLiveObjects: 0.080399 ms CreateObjectMapping: 0.027797 ms MarkObjects: 0.212972 ms  DeleteObjects: 0.039771 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6f0 -> priority: 1 

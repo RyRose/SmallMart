@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallMart", "SmallMart.csproj", "{C584FD89-5CDD-35BD-EBD6-E0657B9598AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallMart.Editor", "SmallMart.Editor.csproj", "{E70338B8-2ED0-E0F6-3127-2E885AFEF6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C584FD89-5CDD-35BD-EBD6-E0657B9598AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C584FD89-5CDD-35BD-EBD6-E0657B9598AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C584FD89-5CDD-35BD-EBD6-E0657B9598AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C584FD89-5CDD-35BD-EBD6-E0657B9598AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E70338B8-2ED0-E0F6-3127-2E885AFEF6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70338B8-2ED0-E0F6-3127-2E885AFEF6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70338B8-2ED0-E0F6-3127-2E885AFEF6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70338B8-2ED0-E0F6-3127-2E885AFEF6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
